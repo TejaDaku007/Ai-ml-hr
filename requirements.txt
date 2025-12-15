@@ -60,6 +60,8 @@
 
 
 
+
+
 streamlit
 pandas
 python-dotenv
@@ -71,5 +73,6 @@ langchain-text-splitters
 langchain-groq
 langchain-huggingface
 sentence-transformers
-faiss-cpu
+pinecone-client
+langchain-pinecone
 pypdf
