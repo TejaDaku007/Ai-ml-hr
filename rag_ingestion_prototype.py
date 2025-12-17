@@ -1776,7 +1776,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_core.documents import Document
 
 # --- Pinecone Imports ---
-from pinecone import Pinecone, ServerlessSpec
+ import Pinecone
 from langchain_pinecone import PineconeVectorStore
 
 # Load environment variables
@@ -2374,5 +2374,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
