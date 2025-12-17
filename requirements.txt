@@ -40,21 +40,21 @@
 # ================================
 # Actual Dependencies
 # ================================
- streamlit==1.32.2
- pandas
- numpy
- python-dotenv
- langchain
- langchain-community
- langchain-core
- langchain-groq
- langchain-huggingface
- sentence-transformers
- faiss-cpu
- plotly
- st-aggrid
- pypdf
- requests
+ #streamlit==1.32.2
+ #pandas
+ #numpy
+ #python-dotenv
+ #langchain
+ #langchain-community
+ #langchain-core
+ #langchain-groq
+ #langchain-huggingface
+ #sentence-transformers
+ #faiss-cpu
+ #plotly
+ #st-aggrid
+ #pypdf
+ #requests
 
 
 
@@ -62,20 +62,21 @@
 
 
 
-#streamlit
-#pandas
-#python-dotenv
-#plotly
-#streamlit-aggrid
-#langchain-community
-#langchain-core
-#langchain-text-splitters
-#langchain-groq
-#langchain-huggingface
-#sentence-transformers
-#pinecone-client
-#langchain-pinecone
-#pypdf
+streamlit
+pandas
+python-dotenv
+plotly
+streamlit-aggrid
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-groq
+langchain-huggingface
+sentence-transformers
+pinecone-client
+langchain-pinecone
+pypdf
+
 
 
 
