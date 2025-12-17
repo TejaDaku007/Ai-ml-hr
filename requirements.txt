@@ -73,9 +73,10 @@ langchain-text-splitters
 langchain-groq
 langchain-huggingface
 sentence-transformers
-pinecone-client
+pinecone
 langchain-pinecone
 pypdf
+
 
 
 
